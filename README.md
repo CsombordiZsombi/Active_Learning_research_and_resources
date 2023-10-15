@@ -40,7 +40,7 @@ Learning
 
 1) Support Vector Machine on iris species:
     
-    - https://www.kaggle.com/code/akhileshravi/active-learning-tutorial/notebook
+    - Tutorial https://www.kaggle.com/code/akhileshravi/active-learning-tutorial/notebook
     
     - Dataset: Iris species https://www.kaggle.com/datasets/uciml/iris
     
@@ -50,7 +50,7 @@ Learning
 
 2) Label Propagation on digits:
     
-    - https://scikit-learn.org/stable/auto_examples/semi_supervised/plot_label_propagation_digits_active_learning.html
+    - Tutorial https://scikit-learn.org/stable/auto_examples/semi_supervised/plot_label_propagation_digits_active_learning.html
     
     - Dataset: Digits https://scikit-learn.org/stable/auto_examples/datasets/plot_digits_last_image.html
     
@@ -58,7 +58,7 @@ Learning
 
 3) Active Learning Framework originaly on mnist, currently on digits:
     
-    - https://github.com/orico/ActiveLearningFrameworkTutorial/blob/master/Active_Learning_Tutorial.ipynb
+    - Tutorial https://github.com/orico/ActiveLearningFrameworkTutorial/blob/master/Active_Learning_Tutorial.ipynb
     
     - Datasets: 
         - MNIST https://paperswithcode.com/dataset/mnist
@@ -71,7 +71,7 @@ Learning
 
 4) Neural Network on digits:
     
-    - https://medium.com/swlh/data-annotation-using-active-learning-with-python-code-aa5b1fe13608
+    - Tutorial https://medium.com/swlh/data-annotation-using-active-learning-with-python-code-aa5b1fe13608
     
     - Dataset: Digits https://scikit-learn.org/stable/auto_examples/datasets/plot_digits_last_image.html
     
