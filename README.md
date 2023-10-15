@@ -75,7 +75,7 @@ Learning
     
     - Dataset: Digits https://scikit-learn.org/stable/auto_examples/datasets/plot_digits_last_image.html
     
-    - ML algorithm: Neural network
+    - ML algorithm: Neural network https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi
 <!--
 5) Neural Network on Stanford Dogs
     
