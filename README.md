@@ -1,4 +1,4 @@
-# Active_Learning_research_and_resources
+# PARIPA_Active_Learning
 
 <!--
 [Click here to jump to the tutorials](#tutorials)
