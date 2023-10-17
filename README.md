@@ -90,8 +90,11 @@ Learning
 
 5) **K-nearest Neighbors on iris species**
     
-    - https://modal-python.readthedocs.io/en/latest/content/examples/pool-based_sampling.html
+    - Tutorial:
+        - https://modal-python.readthedocs.io/en/latest/content/examples/pool-based_sampling.html
     
-    - Dataset: Iris species https://www.kaggle.com/datasets/uciml/iris
+    - Dataset: 
+        - Iris species https://www.kaggle.com/datasets/uciml/iris
     
-    - ML algorithm: K-nearest Neighbors https://www.youtube.com/watch?v=0p0o5cmgLdE
+    - ML algorithm: 
+        - K-nearest Neighbors https://www.youtube.com/watch?v=0p0o5cmgLdE
