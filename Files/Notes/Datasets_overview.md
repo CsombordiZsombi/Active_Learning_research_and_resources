@@ -133,7 +133,7 @@ https://www.youtube.com/watch?v=KXpZ6B1YB_k
     - https://cocodataset.org/#home
 
 - Description: 
-    - MS COCO contains images of common items in context. It aims for 
+    - MS COCO contains images of common items in context. This dataset aims for advances in object recognition in the context of scene understanding.
 
 - Data type:
     - Images
