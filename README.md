@@ -1,10 +1,12 @@
 # PARIPA_Active_Learning
 
-<!--
-[Click here to jump to the tutorials](#tutorials)
 
-[Click here to jump to the useful articles](#useful-articles)
--->
+[Tutorials](#tutorials)
+
+[Useful articles](#useful-articles)
+
+[Datasets](Files/Notes/Autonomus_Driving_Datasets.md)
+
 
 ## Useful articles:
 
@@ -36,7 +38,7 @@
 Learning
 ](Files/Articles/Monocular_3D_Object_Detection_with_LiDAR_Guided_Semi_Supervised_Active_Learning.pdf)
 
-## Tutorials:
+## Complete Tutorials:
 
 1) **Support Vector Machine on iris species:**
     
@@ -98,3 +100,4 @@ Learning
     
     - ML algorithm: 
         - K-nearest Neighbors https://www.youtube.com/watch?v=0p0o5cmgLdE
+
