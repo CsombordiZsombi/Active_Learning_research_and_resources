@@ -130,6 +130,7 @@ https://www.youtube.com/watch?v=KXpZ6B1YB_k
 ![](Images/MS_COCO_example.png)
 
 - Dataset:
+    - https://cocodataset.org/#home
 
 - Description: 
     - MS COCO contains images of common items in context. It aims for 
@@ -141,6 +142,9 @@ https://www.youtube.com/watch?v=KXpZ6B1YB_k
     - Bounding boxes
     - Semantic segmentation
     - Instace-level segmentation
+
+- Add-ons:
+    - https://cocodataset.org/#external
 
 - API:
     - [Voxel51](https://docs.voxel51.com)
